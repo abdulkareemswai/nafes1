@@ -1,0 +1,8 @@
+{
+  "name": "منصة نافس التعليمية | NAFES Prep Hub",
+  "description": "بوابة الاستعداد المدرسية لاختبارات نافس الوطنية في مواد لغتي والرياضيات والعلوم: بطاقات استذكار سريع، حاسبة وقت، استراتيجيات حل ذكية، ونماذج محاكية - مدرسة المروة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
